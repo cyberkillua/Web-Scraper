@@ -1,0 +1,22 @@
+{
+  "name": "simple-web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "node-fetch": "^2.6.1",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3",
+    "url-parse": "^1.5.10"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.1"
+  }
+}
